@@ -1,0 +1,68 @@
+import { Beverage } from "../types";
+import { beverageImages } from './beverageImages';
+
+export const beverages: Beverage[] = [
+  {
+    id: "bev1",
+    name: "Pepsi",
+    description: "Refrigerante de cola",
+    image: beverageImages.pepsi,
+    price: 2.50,
+    size: "330ml",
+    category: "Refrigerante",
+  },
+  {
+    id: "bev2",
+    name: "7up",
+    description: "Refrigerante de lima-limão",
+    image: beverageImages['7up'],
+    price: 2.50,
+    size: "330ml",
+    category: "Refrigerante",
+  },
+  {
+    id: "bev3",
+    name: "Sumol",
+    description: "Refrigerante português de laranja",
+    image: beverageImages.sumol,
+    price: 2.50,
+    size: "330ml",
+    category: "Refrigerante",
+  },
+  {
+    id: "bev4",
+    name: "BI",
+    description: "Refrigerante português de laranja",
+    image: beverageImages.bi,
+    price: 2.50,
+    size: "330ml",
+    category: "Refrigerante",
+  },
+  {
+    id: "bev5",
+    name: "Sagres",
+    description: "Cerveja portuguesa",
+    image: beverageImages.sagres,
+    price: 2.80,
+    size: "330ml",
+    category: "Cerveja",
+  },
+  {
+    id: "bev6",
+    name: "Super Bock",
+    description: "Cerveja portuguesa",
+    image: beverageImages.superBock,
+    price: 2.80,
+    size: "330ml",
+    category: "Cerveja",
+  },
+  {
+    id: "bev7",
+    name: "Água",
+    description: "Água Penacova",
+    image: beverageImages.penacova,
+    price: 1.50,
+    size: "500ml",
+    category: "Água",
+  },
+];
