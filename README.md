@@ -4,7 +4,7 @@ Este repositório contém a implementação Frontend de uma plataforma de delive
 
 O grande destaque deste trabalho é demonstrar o ciclo completo de desenvolvimento moderno (Design-to-Code). Toda a interface e a jornada do utilizador foram inicialmente desenhadas e prototipadas no **Figma**, sendo posteriormente traduzidas para uma implementação *pixel-perfect* em código, garantindo total fidelidade visual e responsividade.
 
----
+
 
 ## 🛠️ Tecnologias e Arquitetura
 
@@ -14,7 +14,7 @@ Para inicializar o ambiente, configurar a base de dados e povoá-la automaticame
 * **Styling & UI:** Tailwind CSS, componentes acessíveis (shadcn/ui)
 * **Design & Prototipagem:** Figma
 
----
+
 
 ## 🚀 Como executar o projeto
 
@@ -25,7 +25,6 @@ npm install
 npm run dev
 ```
 
----
 
 ## 🎨 UI/UX Design (Figma)
 
