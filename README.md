@@ -6,7 +6,6 @@ O grande destaque deste trabalho é demonstrar o ciclo completo de desenvolvimen
 
 ---
 
-
 ## 🛠️ Tecnologias e Arquitetura
 
 Para inicializar o ambiente, configurar a base de dados e povoá-la automaticamente com dados de teste (seeding), abre o terminal na pasta raiz do projeto e executa os seguintes comandos:
@@ -16,7 +15,6 @@ Para inicializar o ambiente, configurar a base de dados e povoá-la automaticame
 * **Design & Prototipagem:** Figma
 
 ---
-
 
 ## 🚀 Como executar o projeto
 
@@ -28,7 +26,6 @@ npm run dev
 ```
 
 ---
-
 
 ## 🎨 UI/UX Design (Figma)
 
